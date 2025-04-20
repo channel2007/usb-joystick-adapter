@@ -5,4 +5,4 @@
 * SEGA_Adapter<DIR>:SEGA手把轉接器韌體
 
 # 特別感謝
-* SEGA_Adapter:改自jonthysell/SegaController[網址](https://github.com/jonthysell/SegaController)
+* SEGA_Adapter:改自jonthysell/SegaController【[網址](https://github.com/jonthysell/SegaController)】
